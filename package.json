@@ -63,7 +63,7 @@
     "husky": "7.0.4",
     "lint-staged": "12.3.7",
     "prettier": "2.6.0",
-    "sort-package-json": "1.54.0",
+    "sort-package-json": "1.57.0",
     "typescript": "4.6.2"
   },
   "packageManager": "pnpm@6.32.3",
